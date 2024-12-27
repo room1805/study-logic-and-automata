@@ -2,7 +2,7 @@
 
 ## 📚 Content
 
-1. 🔄 Chapter 1: Automata [`1_chapter_automata.ipynb`]
+1. 🔄 Chapter 1: Automata [`1_chapter_automata.ipynb`](./1_chapter_automata.ipynb)
 2. 🔲 Chapter 2: TBD
 3. 🔲 Chapter 3: TBD
 4. 🔲 Chapter 4: TBD
